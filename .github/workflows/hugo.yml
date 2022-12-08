@@ -49,6 +49,6 @@ jobs:
           external_repository: Eliauk365/Eliauk365.github.io # 修改为你的 GitHub Pages 仓库
           publish_dir: ./public
           #keep_files: false
-          publish_branch: mian
+          publish_branch: main
           # 如果使用自定义域名，还需要添加下面一行配置
           cname: blog.kexsw.top   
