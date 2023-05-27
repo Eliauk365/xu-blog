@@ -7,20 +7,20 @@ languageCode = "zh-CN"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 # 网站标题
-title = "冰桃美酒"
+title = "逍遥居"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "DoIt"
 
 [params]
   #  DoIt 主题版本
-  version = "0.2.X"
+  version = "0.4.0"
   # 网站名称
-  title = "冰桃美酒"
+  title = "逍遥居"
   # 网站描述
   description = "科技与很活"
   # 网站关键词
-  keywords = ["Blog", "Hugo", "IT", "程序员"]
+  keywords = ["Blog", "Hugo", "教程分享", "科学上网", "VPS推荐", "好物分享"]
   #  网站默认主题样式 ("light", "dark", "black", "auto")
   defaultTheme = "auto"
   # 公共 git 仓库路径, 仅在 enableGitInfo 设为 true 时有效
@@ -39,7 +39,7 @@ theme = "DoIt"
   #  应用图标配置
   [params.app]
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "冰桃美酒"
+    title = "逍遥居"
     # 是否隐藏网站图标资源链接
     noFavicon = false
     # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
@@ -96,7 +96,7 @@ theme = "DoIt"
       # LOGO 的 URL
       logo = ""
       # 标题名称
-      name = "冰桃美酒"
+      name = "逍遥居"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
@@ -165,7 +165,7 @@ theme = "DoIt"
       #  主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题
-      subtitle = "这是我的全新 Hugo 网站"
+      subtitle = "金风玉露一相逢，便胜却人间无数。"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
@@ -293,10 +293,10 @@ theme = "DoIt"
     #  过时文章提示
     [params.page.outdatedArticleReminder]
       enable = true
-      # 如果文章最后更新于 90 天之前，显示提醒
-      reminder = 90
-      # 如果文章最后更新于 180 天之前，显示警告
-      warning = 180
+      # 如果文章最后更新于 180 天之前，显示提醒
+      reminder = 180
+      # 如果文章最后更新于 360 天之前，显示警告
+      warning = 360
     #  目录配置
     [params.page.toc]
       # 是否使用目录
@@ -683,11 +683,11 @@ theme = "DoIt"
 
 # 作者配置
 [author]
-  name = "冰桃"
+  name = "逍遥客"
   email = "jasminewilson9782@gmail.com"
   link = ""
   avatar = ""
-  gravatarEmail = "jasminewilson9782@gmail.com"
+  gravatarEmail = "cunglahaubiennhu@gmail.com"
 
 # 网站地图配置
 [sitemap]
