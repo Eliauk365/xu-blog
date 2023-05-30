@@ -651,6 +651,14 @@ theme = "DoIt"
     url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = ""
+    pre = ""
+    post = ""
+    name = "关于"
+    url = "/aboud.md"
+    title = ""
+    weight = 4
 
 # Hugo 解析文档的配置
 [markup]
