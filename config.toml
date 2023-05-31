@@ -656,7 +656,7 @@ theme = "DoIt"
     pre = ""
     post = ""
     name = "关于"
-    url = "/about/"
+    url = "/about"
     title = ""
     weight = 4
 
