@@ -32,7 +32,9 @@ weight: 1
 ## 购买地址
 
 官网：[点击直达](https://www.mojie.me/#/register?code=mxADZSny)
+
 国内直连地址：[点击直达](https://mojie.nl/#/register?code=mxADZSny)
+
 官网TG群：[点击直达](https://t.me/Lord_Rings)
 
 # 艾可云
@@ -80,6 +82,7 @@ weight: 1
 ## 购买地址
 
 官网：[点击直达](https://www.akijapan.net/#/register?code=MgKFTy78)
+
 官网TG群：[点击直达](https://t.me/v2akygg)
 
 <b><center>听唱菱歌晚，回塘月照沙。</center></b>
