@@ -3,7 +3,7 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - Eliauk365/Eliauk365.github.io  # Set a branch to deploy
+      - main  # Set a branch to deploy
   pull_request:
 
 jobs:
