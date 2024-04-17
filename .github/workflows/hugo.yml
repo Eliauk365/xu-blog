@@ -32,4 +32,6 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
+          publish_branch: main
           external_repository: Eliauk365/Eliauk365.github.io
+          
