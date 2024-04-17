@@ -18,7 +18,7 @@ theme = "DoIt"
   # 网站名称
   title = "逍遥居"
   # 网站描述
-  description = "科技与很活"
+  description = "一个有趣的灵魂"
   # 网站关键词
   keywords = ["Blog", "Hugo", "教程分享", "科学上网", "VPS推荐", "好物分享"]
   #  网站默认主题样式 ("light", "dark", "black", "auto")
@@ -736,7 +736,6 @@ theme = "DoIt"
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
 
 # 用于分类的设置
 [taxonomies]
