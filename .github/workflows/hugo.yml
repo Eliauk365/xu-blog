@@ -30,7 +30,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         if: github.ref == 'refs/heads/main'
         with:
-          deploy_key: ${{ secrets.PERSONAL_TOKEN }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./public
           publish_branch: main
           external_repository: Eliauk365/Eliauk365.github.io
